@@ -1,0 +1,13 @@
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\bin\Release\DemoApp.exe.config
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\bin\Release\DemoApp.exe
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\bin\Release\DemoApp.pdb
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Release\DemoApp.csprojResolveAssemblyReference.cache
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Release\MainWindow.baml
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Release\MainWindow.g.cs
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Release\App.g.cs
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Release\DemoApp_MarkupCompile.cache
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Release\DemoApp.g.resources
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Release\DemoApp.Properties.Resources.resources
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Release\DemoApp.csproj.GenerateResource.Cache
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Release\DemoApp.exe
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Release\DemoApp.pdb

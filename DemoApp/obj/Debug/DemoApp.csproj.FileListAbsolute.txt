@@ -1,0 +1,13 @@
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Debug\MainWindow.baml
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Debug\MainWindow.g.cs
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Debug\App.g.cs
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Debug\DemoApp_MarkupCompile.cache
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Debug\DemoApp.g.resources
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Debug\DemoApp.Properties.Resources.resources
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.GenerateResource.Cache
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+c:\users\ivanov913\documents\visual studio 2013\Projects\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
